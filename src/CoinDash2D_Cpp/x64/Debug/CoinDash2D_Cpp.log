@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: la directory Output non termina con una barra finale. Nell'istanza della compilazione verrà aggiunta la barra poiché è necessaria per consentire la corretta valutazione della directory Output.
+  CoinDash2D_Cpp.vcxproj -> C:\Users\zakato\Desktop\GodotGames\CoinDash2D_Cpp\src\CoinDash2D_Cpp\..\..\godot_project\LibCoinDash2D_Cpp-x64-Debug.dll
