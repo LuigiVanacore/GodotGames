@@ -48,7 +48,7 @@ Player::~Player() {}
 
 void Player::_process(float delta) {
 	getInput();
-	//Godot::print("screen size" + screenSize);
+	Godot::print("screen size" + screenSize);
 	setPosition(delta);
 	setAnimation();
 	
